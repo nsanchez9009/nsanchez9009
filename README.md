@@ -3,5 +3,5 @@
 <p>Currently working on the Odin Project to widen my portfolio and learn some Javascript, HTML, and CSS.</p>
 If your looking to collaborate on something or just want to get in contact, send me an <a href="mailto:nsanchez9009@gmail.com">email!</a>
 <br><br>
-<button type="button">My Resume</button>
+<div><a href="">My Resume</a></div>
 <a href="https://www.linkedin.com/in/nsanchez9009"><img src="https://i.imgur.com/Ks8W7j6.png" width="40px" alt="LinkedIn"></a>
