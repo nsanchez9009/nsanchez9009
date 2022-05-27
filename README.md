@@ -1,10 +1,3 @@
-### Hi there 👋
-
-<!--
-**nsanchez9009/nsanchez9009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +7,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+he/him
+Currently a Computer Science Major at the University of Central Florida.
+Working on the Odin Project to widen my portfolio and learn some Javascript, HTML, and CSS.
+If your looking to collaborate on something or just want to get in contact, send me an <a href="mailto:nsanchez9009@gmail.com">email!</a>
