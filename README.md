@@ -4,4 +4,5 @@
 If your looking to collaborate on something or just want to get in contact, send me an <a href="mailto:nsanchez9009@gmail.com">email!</a>
 <br><br>
 <div><a href="">My Resume</a></div>
+<br>
 <a href="https://www.linkedin.com/in/nsanchez9009"><img src="https://i.imgur.com/Ks8W7j6.png" width="40px" alt="LinkedIn"></a>
