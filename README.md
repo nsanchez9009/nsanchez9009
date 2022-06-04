@@ -10,7 +10,8 @@ If your looking to collaborate on something or just want to get in contact, send
 <div><a href="">My Resume</a> (under construction)</div>
 <br>
 <a href="https://www.linkedin.com/in/nsanchez9009"><img src="https://i.imgur.com/Ks8W7j6.png" width="40px" alt="LinkedIn"></a>
-<br>
+
+<br></br>
 
 [![Nicolas's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nsanchez9009&layout=compact&theme=github_dark#gh-dark-mode-only)](https://github.com/GoogleGenius#gh-dark-mode-only)
 
